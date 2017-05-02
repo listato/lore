@@ -1,6 +1,6 @@
 {
   "name": "lore-generate-generator",
-  "version": "0.11.5",
+  "version": "0.11.6",
   "license": "MIT",
   "main": "index.js",
   "description": "Generates a new Lore generator",
